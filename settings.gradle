@@ -3,8 +3,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-       //  jcenter() Warning: this repository is going to shut down soon is replaced by mavenCentral
-        // delete it
+
+        //  jcenter() delete deprecated library replaced by mavenCentral
+
+
     }
 }
 rootProject.name = "E-commerce App"
